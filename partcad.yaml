@@ -1,3 +1,5 @@
+desc: Cloudray
+url: https://www.cloudraylaser.com/
 parts:
   stepper-driver/dm556sx2:
     type: step
